@@ -73,7 +73,7 @@ deps = {
   # keep
   # this
   # line
-  'tinygltf': 'https://github.com/syoyo/tinygltf.git@'{tinygltf_revision}'),
+  'tinygltf': 'https://github.com/syoyo/tinygltf.git@{tinygltf_revision}',
   # keep
   # this
   # line
