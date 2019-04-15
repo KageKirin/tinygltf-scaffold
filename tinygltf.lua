@@ -48,7 +48,7 @@ project "tinygltf"
 	defines {}
 
 	files {
-		path.join(tinygltf_script, "config", "**.h")),
+		path.join(tinygltf_script, "config", "**.h"),
 		path.join(tinygltf_root, "**.h"),
 		path.join(tinygltf_root, "**.cpp"),
 	}
