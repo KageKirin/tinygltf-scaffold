@@ -19,7 +19,6 @@
 # -----------------------------------------------------------------------------
 # All repositories in this file are git-based.
 # To update the revision that CppScaffolding pulls for a given dependency:
-#
 #  1. Create and switch to a new branch
 #  git new-branch depsroll
 #  2. Run roll-dep (provided by depot_tools) giving the dep's path and optionally
@@ -46,7 +45,9 @@ vars = {
   # -------------------
   # variables used for other remote url etc
   # ---------------------------------------------------------------------------
-
+  # keep
+  # this
+  # line
   # ---------------------------------------------------------------------------
   # Versioning vars
   # ---------------
@@ -69,7 +70,6 @@ deps = {
   ## entry following this pattern
   ## 'path': 'repo-url.git@' + Var('repo_revision')
   # ---------------------------------------------------------------------------
-
   # keep
   # this
   # line
