@@ -1,0 +1,4 @@
+## .gitignore file for tinygltf-scaffold
+
+## ignore folder fetched through gclient
+tinygltf
