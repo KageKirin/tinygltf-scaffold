@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------
 # DEPS file for tinygltf scaffold
-# ========================================
+# =========================================
 # -----------------------------------------------------------------------------
 
 # This file is used to manage the dependencies of the
@@ -17,9 +17,8 @@
 # -----------------------------------------------------------------------------
 # Rolling deps
 # -----------------------------------------------------------------------------
-# All repositories in this file are git-based, using Arcana-dependencies
-# git mirrors
-# To update the revision that Arcana scaffolding pulls for a given dependency:
+# All repositories in this file are git-based.
+# To update the revision that CppScaffolding pulls for a given dependency:
 #
 #  1. Create and switch to a new branch
 #  git new-branch depsroll
